@@ -1,3 +1,6 @@
+# Go play
+
+Using Golang at work so messing about with it occasionally in my spare time. This repo is that mess.
 
 ## Sync package types
 
